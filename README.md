@@ -52,12 +52,12 @@ Metasploit Framework merupakan tools keamanan siber yang sering digunakan untuk 
 #### GDPR (General Data Protection Regulation) dan PDP (Personal Data Protection)
 
 **GDPR (General Data Protection Regulation):**
-- **Penjelasan:** GDPR merupakan regulasi privasi data yang berlaku di Uni Eropa dan dirancang untuk melindungi privasi dan hak individu terkait data pribadi. Regulasi ini memberikan kontrol yang lebih besar kepada individu atas data pribadi mereka dan mengharuskan organisasi untuk mematuhi standar yang ketat terkait pengolahan, penyimpanan, dan perlindungan data pribadi.
+GDPR merupakan regulasi privasi data yang berlaku di Uni Eropa dan dirancang untuk melindungi privasi dan hak individu terkait data pribadi. Regulasi ini memberikan kontrol yang lebih besar kepada individu atas data pribadi mereka dan mengharuskan organisasi untuk mematuhi standar yang ketat terkait pengolahan, penyimpanan, dan perlindungan data pribadi.
 
 - **Tahun di Berlakukannya:** GDPR mulai berlaku pada 24 Mei 2018 dan diterapkan pada 25 Mei 2018.
 
 **PDP (Personal Data Protection):**
-- **Penjelasan:** Personal Data Protection (PDP) untuk melindungi data pribadi individu dari penyalahgunaan dan pemrosesan yang tidak sah.  melibatkan kebijakan, praktik, dan regulasi yang dirancang untuk memastikan bahwa informasi pribadi tidak disalahgunakan atau diakses tanpa izin.
+Personal Data Protection (PDP) untuk melindungi data pribadi individu dari penyalahgunaan dan pemrosesan yang tidak sah.  melibatkan kebijakan, praktik, dan regulasi yang dirancang untuk memastikan bahwa informasi pribadi tidak disalahgunakan atau diakses tanpa izin.
 
 - **Tahun di Berlakukannya:** dituangkan dalam bentuk Peraturan Menteri (Permen) No 20 Tahun 2016 tentang Perlindungan Data Pribadi (PDP) ditetapkan 7 November 2016, diundangkan dan berlaku sejak 1 Desember 2016
 
