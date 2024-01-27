@@ -87,9 +87,8 @@ Organisasi Keamanan Aplikasi Web Terbuka (Open Web Application Security Project 
 
  **Pentingnya Keamanan Aplikasi:**
    - Dengan meningkatnya serangan terhadap aplikasi web, fokus pada keamanan perangkat lunak menjadi lebih kritis. OWASP memberikan landasan yang kuat untuk memahami, mencegah, dan mengatasi masalah keamanan perangkat lunak secara holistik.
+   - 
+### Jawaban No. 6
+#### [Badge URL](https://www.credly.com/badges/679f5f20-1371-4b07-9c69-3ea4ec4c5b07/public_url)
 
-### Jawaban No 6. 
-#### Badge url : https://www.credly.com/badges/679f5f20-1371-4b07-9c69-3ea4ec4c5b07/public_url
-
-
-#### Certificate : 
+#### [Certificate File](Introduction_to_Cybersecurity_Badge20240127-29-efxpox.pdf)
